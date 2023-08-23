@@ -1,0 +1,19 @@
+.Headerbody{
+background-color: rgb(17, 19, 19);
+display: flex;
+align-items: center;
+z-index: 10;
+/* height: 30; */
+}
+.searchBar{
+padding: 10px;
+display: flex;
+align-items: center;
+
+}
+.Header_SearchBar{
+    width:700px;
+}
+.Header_SearchIcon{
+    background-color: goldenrod;
+}

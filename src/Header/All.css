@@ -1,0 +1,9 @@
+.All-container{
+    background-color:white;
+    height: 600px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    display: block;
+    
+}

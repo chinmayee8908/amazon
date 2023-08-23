@@ -1,0 +1,14 @@
+h5,h6{
+    padding: 7px;
+}
+.container{
+    display:"flex";
+    flex-direction:'column';
+    margin-left:90;
+    margin-top: 50px;
+}
+img
+{
+    height: 40px;
+    width: 70px;
+}

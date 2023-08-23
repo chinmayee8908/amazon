@@ -1,0 +1,9 @@
+.signIn-container{
+    background-color: rgb(252, 252, 250);
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    
+}
